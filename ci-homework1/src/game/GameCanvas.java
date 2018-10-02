@@ -16,7 +16,7 @@ public class GameCanvas extends JPanel {
 
     public  static ArrayList<EnemyBullet> enemyBullets = new ArrayList<>();
     public static ArrayList<Enemy> enemies = new ArrayList<>();
-    public static ArrayList<PlayerBullet> playerBullets = new ArrayList<>(); // truyền vào cho biến playerbullet 1 giá trị là 1 mảng kiểu PlayerBullet
+    public static ArrayList<PlayerBullet> playerBullets = new ArrayList<>(); // truyền vào cho biến playerbullet 1 giá trị là 1 mảng kiểu PlayerBullet tránh bị null point
 
 
     public GameCanvas(){
