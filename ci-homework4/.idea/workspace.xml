@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52d8730c-964d-41cc-a966-1b0c83b57421" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/background/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/cyan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/bullets/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion-big/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/explosion/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/black/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/blue/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/blue/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/blue/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/blue/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/pink/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/pink/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/pink/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/enemies/level0/pink/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/enemy-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/numbers/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/power.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/hud/ring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/items/power-up-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/items/power-up-red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/menus/quit-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/menus/quit-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/menus/start-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/menus/start-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/player-bullets/a/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/player-bullets/a/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/player-bullets/a/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/player-bullets/a/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/explosions/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/left/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/left/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/left/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/left/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/left/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/left/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/right/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/right/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/right/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/right/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/right/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/right/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/players/straight/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/scenes/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/scenes/game-over-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/scenes/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/scenes/thanks-for-playing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/scenes/victory-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/scenes/victory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere-bullets/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere-bullets/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere-bullets/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere-bullets/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/images/sphere/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/bgm/ending.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/bgm/game-over.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/bgm/title.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/enemy-explosion-big.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/enemy-explosion.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/item-collect.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/ok.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/option.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/player-dead.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/player-shoot.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/assets/music/sfx/powerup.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/ci-homework2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/Ci-homework/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/PlayerBulletLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/PlayerBulletRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/counter/FrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-begin-master/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/PlayerBulletLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/PlayerBulletRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/counter/FrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/out/production/ci-homework2/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/Background.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/EnemyBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/KeyEventPress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/PlayerBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/PlayerBulletLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/PlayerBulletRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/Setting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/Vector2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/counter/FrameCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/renderer/AnimationRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/renderer/Renderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/base/renderer/SingleImageRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/game/GameCanvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/game/GameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/tklibs/AudioUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/tklibs/Mathx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/tklibs/SpriteUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework2/src/tklibs/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/background/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/cyan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/bullets/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion-big/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/explosion/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/black/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/blue/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/blue/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/blue/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/blue/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/pink/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/pink/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/pink/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/enemies/level0/pink/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/enemy-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/numbers/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/power.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/hud/ring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/items/power-up-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/items/power-up-red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/menus/quit-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/menus/quit-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/menus/start-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/menus/start-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/player-bullets/a/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/player-bullets/a/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/player-bullets/a/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/player-bullets/a/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/explosions/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/left/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/left/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/left/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/left/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/left/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/left/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/right/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/right/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/right/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/right/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/right/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/right/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/players/straight/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/scenes/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/scenes/game-over-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/scenes/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/scenes/thanks-for-playing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/scenes/victory-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/scenes/victory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere-bullets/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere-bullets/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere-bullets/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere-bullets/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/images/sphere/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/bgm/ending.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/bgm/game-over.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/bgm/title.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/enemy-explosion-big.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/enemy-explosion.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/item-collect.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/ok.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/option.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/player-dead.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/player-shoot.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/assets/music/sfx/powerup.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/ci-homework4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/Ci-homework/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/BoxCollider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/Physics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/counter/FrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-begin-master/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/PlayerBulletLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/PlayerBulletRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/counter/FrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework2/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/BoxCollider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/KeyEventPress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/Physics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/Vector2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/counter/FrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/renderer/AnimationRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/renderer/Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/base/renderer/SingleImageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/tklibs/AudioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/tklibs/Mathx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/tklibs/SpriteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/out/production/ci-homework3/tklibs/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/Background.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/BoxCollider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/EnemyBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/KeyEventPress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/Physics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/PlayerBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/Setting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/Vector2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/counter/FrameCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/renderer/AnimationRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/renderer/Renderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/base/renderer/SingleImageRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/game/GameCanvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/game/GameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/AudioUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/Mathx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/SpriteUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/test1.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1692317396">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1888830900">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="153" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="153" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Program.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-210">
+              <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/base/EnemyBullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-898">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#2706#2707#0" expanded="true" />
+                <element signature="e#2742#2743#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base/Enemy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base/PlayerBullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-588">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/base/Player.java" />
+        <option value="$PROJECT_DIR$/src/base/EnemyBullet.java" />
+        <option value="$PROJECT_DIR$/src/base/Enemy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="40" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ci-homework4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ci-homework4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ci-homework4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ci-homework4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ci-homework4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ci-homework4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538866809441" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="ci-homework4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d8730c-964d-41cc-a966-1b0c83b57421" name="Default Changelist" comment="" />
+      <created>1538866535616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538866535616</updated>
+      <workItem from="1538866538062" duration="282000" />
+      <workItem from="1538866864332" duration="2319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2601000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/PlayerBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/EnemyBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-898">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#2706#2707#0" expanded="true" />
+            <element signature="e#2742#2743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
