@@ -449,6 +449,35 @@
       <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/Mathx.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/SpriteUtils.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ci-homework3/src/tklibs/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/BoxCollider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/EnemyBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/Physics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/base/PlayerBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/game/GameCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/game/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ci-homework4/game/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/BoxCollider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/EnemyBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/KeyEventPress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Physics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/PlayerBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/action/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/action/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/action/ActionParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/action/ActionParallel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/action/ActionRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/action/ActionRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/action/ActionSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/action/ActionSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/action/ActionWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/action/ActionWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/physics/BoxCollider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/physics/BoxCollider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/player/PlayerBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/player/PlayerBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/renderer/AnimationRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/renderer/AnimationRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/renderer/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/renderer/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/renderer/SingleImageRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/renderer/SingleImageRenderer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -482,17 +511,18 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -509,7 +539,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -519,41 +549,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/Player.java">
+        <entry file="file://$PROJECT_DIR$/src/base/physics/Physics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/base/EnemyBullet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-819">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <element signature="e#2706#2707#0" expanded="true" />
-                <element signature="e#2742#2743#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/Enemy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/PlayerBullet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-588">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="168">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -569,6 +568,7 @@
         <option value="$PROJECT_DIR$/src/base/Player.java" />
         <option value="$PROJECT_DIR$/src/base/EnemyBullet.java" />
         <option value="$PROJECT_DIR$/src/base/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/base/physics/Physics.java" />
       </list>
     </option>
   </component>
@@ -620,7 +620,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538866809441" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ci-begin-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -662,16 +662,17 @@
       <updated>1538866535616</updated>
       <workItem from="1538866538062" duration="282000" />
       <workItem from="1538866864332" duration="3596000" />
+      <workItem from="1539149215870" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3878000" />
+    <option name="totallyTimeSpent" value="4963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14362416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -688,9 +689,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.17872341" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -709,42 +710,52 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/base/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/PlayerBullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="630">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/base/Enemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="504">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/base/physics/Physics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        <state relative-caret-position="168">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/base/EnemyBullet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-819">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#2706#2707#0" expanded="true" />
-            <element signature="e#2742#2743#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/PlayerBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="44" column="83" lean-forward="true" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
