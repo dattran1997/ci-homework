@@ -1,8 +1,7 @@
 package game;
 
-import base.KeyEventPress;
+import base.event.KeyEventPress;
 import base.Setting;
-import game.GameCanvas;
 
 import javax.swing.*;
 import java.awt.event.KeyAdapter;
@@ -78,7 +77,6 @@ public class GameWindow extends JFrame {
             if(currentTime - lastTime > delay){
                 //logic
                 canvas.run();
-    //            canvas.shoot();
                 this.repaint(); //hàm repain gọi từ pain component
                 // mỗi lần chạy xong thì gán t/g hiện tại băng t/g cuối
                 lastTime = currentTime;

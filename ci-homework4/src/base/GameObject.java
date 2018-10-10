@@ -1,5 +1,6 @@
 package base;
 
+import base.physics.Physics;
 import base.renderer.Renderer;
 
 import java.awt.*;
@@ -31,6 +32,7 @@ public class GameObject {
         // ko có tạo mưới
         //return game object
         for (GameObject go : gameObjects){
+            // duyệt những đối tượng bị deactivate để dùng lại
             if(!go.isActive && go.getClass().isAssignableFrom(childclass)){
                 go.isActive = true;
                 return (E)go;
@@ -42,6 +44,8 @@ public class GameObject {
     //physics là đối tượng cần đc check va chạm
     public  static <E extends GameObject> E intersect(Class<E> childClass, Physics physics){
         for(GameObject go : gameObjects){
+            // check nếu như game object chưa đc vẽ ra || thuộc kiểu class của đối tượng kia đc truyền vào ||
+            // và có collider khai báo trong class đó
             if(go.isActive && go.getClass().isAssignableFrom(childClass) && go instanceof Physics){
                 Physics physicsGo =(Physics) go;
                 boolean intersected = physics.getBoxCollider().intersect(physicsGo,(GameObject) physics);
@@ -68,7 +72,9 @@ public class GameObject {
     }
 
     public static void renderAll (Graphics g){
-        for (GameObject go : gameObjects){
+
+        for(int i=0; i<gameObjects.size();i++){
+            GameObject go = gameObjects.get(i);
             if (go.isActive){
                 go.render(g);
             }
@@ -77,11 +83,14 @@ public class GameObject {
         newGameObjects.clear();
     }
 
+    //************************** khởi tạo
+
     BufferedImage image;
     //kiểu dữ liệu vector
     public Vector2D position;
     // render là 1 dạng đa hình
-    Renderer renderer;
+
+   public Renderer renderer;
 
     public GameObject(){
         this.isActive = true;

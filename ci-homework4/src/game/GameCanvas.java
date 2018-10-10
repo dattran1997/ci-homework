@@ -1,12 +1,11 @@
 package game;
 
 import base.*;
-import tklibs.SpriteUtils;
+import base.enemy.Enemy;
+import base.player.Player;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.util.ArrayList;
 
 //canvas bảng vẽ - panel
 public class GameCanvas extends JPanel {
